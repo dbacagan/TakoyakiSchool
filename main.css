@@ -1,0 +1,114 @@
+body {
+      font: 400 17px Lato, sans-serif;
+      line-height: 1.8;
+      color: #818181;
+}
+
+nav {
+	font-family: 'Hind';
+	font-weight: 500;
+	font-size: 15px;
+}
+
+h2 {
+      font-size: 24px;
+      color: #303030;
+      font-weight: 600;
+      margin-bottom: 30px;
+}
+
+
+h4 {
+      font-size: 19px;
+      line-height: 1.375em;
+      color: #303030;
+      font-weight: 400;
+      margin-bottom: 30px;
+}  
+
+.container-fluid {
+	padding: 60px 100px;
+}
+
+.bg-grey {
+      background-color: #f6f6f6;
+}
+
+/* Concact Form */
+.contact {
+	padding: 40px 150px;
+}
+
+/* Footer */
+.color-dark{
+  background-color: #3f3f43;
+  color: white;
+}
+
+.color-dark a {
+  color: white;
+}
+
+.logo-text {
+  font-size: 20px;
+  text-align: center;
+}
+
+.news-other {
+  padding-top: 57px;
+}
+
+h3{
+  margin-bottom: 20px;
+}
+
+body, html {
+    height: 100%;
+}
+
+/* Banner */
+.banner{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.home-image{
+  background-image: url("https://lifeandthyme.com/wp-content/uploads/2014/11/tanta-fw-2.jpg");
+  height: 80%;
+}
+
+.about-image{
+  background-image: url("http://edynamiclearning.com/wp-content/uploads/2014/04/bigstock-Chef-in-hotel-or-restaurant-ki-51177172-585x310.jpg");
+}
+
+.contact-image{
+  background-image: url("images/banner.jpg");
+}
+
+.banner-height{
+  height: 65%;
+}
+
+.banner-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.requirements, .procedure{
+  padding:10px 100px;
+}
+
+.courses-list {
+  padding-left: 40px;
+}
+
+.courses {
+  padding: 0px 40px;
+}
