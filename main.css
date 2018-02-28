@@ -60,6 +60,7 @@ h4 {
 
 h3{
   margin-bottom: 20px;
+  font-style: center;
 }
 
 body, html {
@@ -77,8 +78,8 @@ body, html {
 }
 
 .home-image{
-  background-image: url("https://lifeandthyme.com/wp-content/uploads/2014/11/tanta-fw-2.jpg");
-  height: 80%;
+  background-image: url("images/home.jpg");
+  height: 90%;
 }
 
 .about-image{
