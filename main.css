@@ -83,11 +83,25 @@ body, html {
 }
 
 .about-image{
-  background-image: url("http://edynamiclearning.com/wp-content/uploads/2014/04/bigstock-Chef-in-hotel-or-restaurant-ki-51177172-585x310.jpg");
+  background-image: url("images/about.jpg");
 }
 
 .contact-image{
   background-image: url("images/banner.jpg");
+}
+
+.admission-image{
+  background-image:  url("images/admission.jpg");
+}
+
+.courses-image{
+  background-image:  url("images/courses.jpg");
+ background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 50px;
+    width: 100%;
 }
 
 .banner-height{
